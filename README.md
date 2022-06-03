@@ -31,3 +31,5 @@ This application was made using
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=f
+
+![Search Page](images\screencapture-localhost-3000-2022-06-02-23_26_07.png)
