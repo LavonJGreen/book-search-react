@@ -32,4 +32,6 @@ This application was made using
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=f
 
-![Search Page](images\screencapture-localhost-3000-2022-06-02-23_26_07.png)
+## Search Page Image
+
+![Alt text](images\screencapture-localhost-3000-2022-06-02-23_26_07.png)
