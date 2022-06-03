@@ -15,8 +15,7 @@ The intended app will be used for quickly searching up books ands add/remove the
 * [Preview](#Preview)
 
 ## Usage
-App is on Heroku at https://protected-shore-93820.herokuapp.com/
-
+https://shielded-depths-10949.herokuapp.com/ app is launched on heroku but issues publishing.
 
 ## Technologies
 This application was made using
