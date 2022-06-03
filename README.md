@@ -34,4 +34,4 @@ This application was made using
 
 ## Search Page Image
 
-![Alt text](images\screencapture-localhost-3000-2022-06-02-23_26_07.png)
+![Alt text](screencapture-localhost-3000-2022-06-02-23_26_07.png)
